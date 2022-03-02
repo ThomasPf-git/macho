@@ -4,7 +4,7 @@
         { "word": "schnellzug", "gender": "m" },
         { "word": "suppn", "gender": "f" },
         { "word": "papst", "gender": "m" },
-        { "word": "geldbörsl", "gender": "m" },
+        { "word": "geldbörsl", "gender": "m" }
     ],
     "phrases": [
         "A {noun} is ka {noun}",
